@@ -4665,31 +4665,5 @@
     "Latitude": 37.240801,
     "Longitude": -112.941626,
     "Location":{"coordinates": [-112.941626,37.240801],"type":"Point"}
-  },
-  {
-    "Location Number": "UKPD",
-    "Location Name": "Peak District",
-    "Address": "",
-    "City": ""
-    "State": "",
-    "Zip Code": ,
-    "Phone Number": 0,
-    "Fax Number": "",
-    "Latitude": 53.35,
-    "Longitude": -1.83333,
-    "Location":{"coordinates": [53.35, -1.833333],"type":"Point"}
-  },
-  {
-    "Location Number": "UKLD",
-    "Location Name": "Lake District",
-    "Address": "",
-    "City": ""
-    "State": "",
-    "Zip Code": ,
-    "Phone Number": 0,
-    "Fax Number": "",
-    "Latitude": 54.5,
-    "Longitude": -3.166667,
-    "Location":{"coordinates": [54.5, -3.166667],"type":"Point"}
-  },
+  }
 ]
